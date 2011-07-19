@@ -121,6 +121,9 @@ fi
 %{_infodir}/tar.info*
 
 %changelog
+* Tue Jul 19 2011 Mike Adams <shalkie@gooseproject.org> 2:1.23-3
+- Initial rebuild for GoOSe Linux 6
+
 * Thu Jul 08 2010 Ondrej Vasik <ovasik@redhat.com> 2:1.23-3
 - recognize old-archive/portability options(#594044)
 
